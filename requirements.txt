@@ -1,6 +1,5 @@
 streamlit
-nltk
-nltk.download('punkt')
+nltk==3.0.0
 scikit-learn
 keras
 numpy
