@@ -1,7 +1,5 @@
 streamlit
-nltk 
-nltk.downloader punkt wordnet
-punkt
+nltk==3.5
 scikit-learn
 keras
 numpy
