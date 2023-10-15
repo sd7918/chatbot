@@ -1,5 +1,5 @@
 streamlit
-nltk==3.5
+nltk
 scikit-learn
 keras
 numpy
